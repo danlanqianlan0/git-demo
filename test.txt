@@ -1,3 +1,6 @@
 the repository is https://github.com/danlanqianlan0/git-demo.git
 
-username/passwd danlanqianlan0/chenchao,408
+vim _netrc
+machine {git account name}.github.com
+login your-usernmae
+password your-password
