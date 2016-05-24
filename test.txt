@@ -4,3 +4,6 @@ vim _netrc
 machine {git account name}.github.com
 login your-usernmae
 password your-password
+
+
+for branch Dev 
